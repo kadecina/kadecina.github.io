@@ -3,8 +3,8 @@
 body {
   font-family: Arial, sans-serif;
   max-width: 50rem;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 ._979e29d4 {
     font-size: .875rem;
@@ -52,7 +52,7 @@ header {
 
 .news-article-header_timestamps-posted {
   font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
-  color: #737373;
+  color: black;
   min-width: 480px;
   max-width: 799px;
   font-size: .93333rem;
@@ -68,7 +68,14 @@ img {
   margin-left:  auto;
   margin-right:  auto;
 }
-
+.insertimagehere {
+  width:  70%;
+  font-size: 14px;
+  display:  block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
 .caption {
   width:  70%;
   font-size: 14px;
@@ -109,11 +116,16 @@ p {
   font-size: 20px;
 }
 
-.otherimg {
+.mainimg {
   max-width: 50rem;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
   margin-bottom: 30px;
+}
+
+.templatemargins {
+  margin-right: 20px;
+  margin-left: 20px;
 }
 </div>
