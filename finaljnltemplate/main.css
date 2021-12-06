@@ -1,5 +1,119 @@
+<div class="bodytext">
+
 body {
-  padding-top: 5rem;
-  margin-left: 20px;
-  margin-right: 20px;
+  font-family: Arial, sans-serif;
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
 }
+._979e29d4 {
+    font-size: .875rem;
+    line-height: 1.25rem;
+    font-family: Franklin,helvetica,sans-serif;
+    font-weight: 500;
+    color: #000;
+    font-weight: 700;
+    background-color: #d6363c;
+    color: #fff;
+    padding: 2px 8px 5px;
+    border-radius: 4px;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+     margin-left: 10px;
+  margin-right: 10px;
+}
+
+.WSJTheme--time-to-read--1uVnDiZs {
+    display: inline-block;
+    font-style: normal;
+}
+
+header {
+  background-color: white;
+  font-size: 10px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+}
+
+.header {
+  background-color: white;
+  font-size: 20px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+  }
+
+.news-article-header_timestamps-posted {
+  font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+  color: #737373;
+  min-width: 480px;
+  max-width: 799px;
+  font-size: .93333rem;
+  line-height: 1.57143;
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+
+img {
+  width: 70%;
+  display:  block;
+  margin-left:  auto;
+  margin-right:  auto;
+}
+
+.caption {
+  width:  70%;
+  font-size: 14px;
+  display:  block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+
+img{
+  width:  70%;
+  border:  3px; color:  darkred;
+}
+
+
+}
+h1{
+  width:  40%;
+  font-size:  35px;
+}
+
+.h1{
+  width:  40%;
+  font-size:  24 px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+}
+.h2{
+  width:  40%;
+  font-size:  24 px;
+  margin-bottom:  1.5rem;
+}
+
+p {
+  font-size: 20px;
+}
+
+.otherimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+</div>
