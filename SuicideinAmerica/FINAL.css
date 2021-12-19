@@ -1,0 +1,165 @@
+<div class="bodytext">
+
+body {
+ font-family: 'EB Garamond', serif;
+  max-width: 50rem;
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #F7EEFF;
+  text-align: left;
+}
+/* Rounded border */
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
+
+._979e29d4 {
+    font-size: .875rem;
+    line-height: 1.25rem;
+    font-family: 'EB Garamond', serif;
+    font-weight: 500;
+    color: #000;
+    font-weight: 700;
+    background-color: #d6363c;
+    color: #fff;
+    padding: 2px 8px 5px;
+    border-radius: 4px;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+     margin-left: 10px;
+  margin-right: 10px;
+}
+
+.WSJTheme--time-to-read--1uVnDiZs {
+    display: inline-block;
+    font-style: normal;
+    font-family: 'EB Garamond', serif;;
+}
+
+header {
+  background-color: white;
+  font-size: 10px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+ }
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+.header {
+  background-color: white;
+  font-size: 20px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-bottom: 15px;
+  }
+
+.news-article-header_timestamps-posted {
+  font-family: 'EB Garamond', serif;
+  color: black;
+  min-width: 480px;
+  max-width: 799px;
+  font-size: .93333rem;
+  line-height: 1.57143;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-align: center;
+
+}
+.pullquote {
+    font-style: normal;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+iframe{
+  width: 70%;
+  display:  block;
+  margin-left:  auto;
+  margin-right:  auto;
+}
+
+img {
+  width: 70%;
+  display:  block;
+  margin-left:  auto;
+  margin-right:  auto;
+}
+.caption {
+  width:  70%;
+  font-size: 16px;
+  display:  block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+  font-family: 'EB Garamond', serif;
+  text-align: left;
+}
+
+img {
+  width:  70%;
+  border:  3px; color:  darkred;
+}
+
+h1{
+  width:  40%;
+  font-size:  35px;
+  font-family: 'EB Garamond', serif;
+}
+
+.h1{
+  width:  40%;
+  font-size:  24 px;
+ font-family: 'EB Garamond', serif;
+}
+iframe{
+  width:  70%;
+  font-size: 14px;
+  display:  block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+h2 {
+  font-size: 24px;
+  margin-bottom: 1.5rem;
+  text-align:center ;
+}
+.h2{
+  width:  40%;
+  font-size:  24 px;
+  margin-bottom:  1.5rem;
+}
+
+p {
+  font-size: 20px;
+  font-family: 'EB Garamond', serif;;
+  text-align: left;
+}
+.rounded{
+opacity: 50%;
+}
+.mainimg {
+  max-width: 50rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.templatemargins {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+</div>
